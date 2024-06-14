@@ -4087,7 +4087,18 @@
     display:none;
   }
 
+  .mySlid {
+    display:none;
+  }
+
   .slideshow-container {
+    position: relative;
+    max-width: 1000px;
+    margin: auto;
+    right: -100px;
+  }
+
+  .slideshow-contai {
     position: relative;
     max-width: 1000px;
     margin: auto;
@@ -4110,6 +4121,12 @@
     animation-name: fade;
     animation-duration: 1.5s;
   }
+
+  .fa {
+    animation-name: fade;
+    animation-duration: 1.5s;
+  }
+
   .footer-links {
     align-self: stretch;
     flex-direction: row;
@@ -4877,7 +4894,7 @@
       to {opacity: 1;}
     }
 
-    @keyframes fad {
+    @keyframes fa {
       from {opacity: .4;}
       to {opacity: 1;}
     }
