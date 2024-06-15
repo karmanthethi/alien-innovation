@@ -1164,12 +1164,14 @@
   .enhancing-mobility {
     margin: 0;
     position: relative;
-    top: -510px;
+    top: -530px;
+    left: -20px
   }
   .empowering-visually-impaired {
     margin: 0;
     position: relative;
     top: -410px;
+    left: -20px
   }
   .worlds-first-compact-container {
     margin: 0;
