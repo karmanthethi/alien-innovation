@@ -1186,7 +1186,7 @@
   }
   .kpc00096-1-icon {
     position: absolute;
-    top: 0;
+    top: -100px;
     left: 0;
     width: 100%;
     height: 100%;
@@ -1209,7 +1209,7 @@
   .frame-child16 {
     position: absolute;
     top: 0;
-    left: 131px;
+    left: 81px;
     border-radius: 50%;
     border: 0 dashed var(--color-lightsalmon-100);
     box-sizing: border-box;
@@ -1220,7 +1220,7 @@
   .frame-child14,
   .frame-child15,
   .frame-child16 {
-    left: 93px;
+    left: 59px;
     border: 0 dashed var(--color-lightsalmon-200);
     width: 600px;
     height: 64px;
@@ -1228,7 +1228,7 @@
   }
   .frame-child15,
   .frame-child16 {
-    left: 48px;
+    left: 27px;
     border: 0 dashed var(--color-lightsalmon-300);
     width: 690px;
     height: 87px;
@@ -1261,7 +1261,7 @@
   }
   .frame-child17 {
     position: absolute;
-    top: 0;
+    top: -50px;
     left: 724px;
     width: 333.6px;
     height: 353px;
