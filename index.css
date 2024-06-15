@@ -1157,10 +1157,19 @@
     margin: 0;
     font-size: var(--headings-headings-h2-size);
     color: var(--color-darkorange);
+    position: relative;
+    top: -180px;
+    left: -100px;
   }
-  .empowering-visually-impaired,
   .enhancing-mobility {
     margin: 0;
+    position: relative;
+    top: -510px;
+  }
+  .empowering-visually-impaired {
+    margin: 0;
+    position: relative;
+    top: -410px;
   }
   .worlds-first-compact-container {
     margin: 0;
