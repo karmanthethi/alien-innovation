@@ -4092,21 +4092,21 @@
   }
 
   .slideshow-container {
-    position: relative;
+    position: absolute;
     max-width: 1000px;
     margin: auto;
-    right: -100px;
+    right: -50px;
   }
 
   .slideshow-contai {
-    position: relative;
+    position: absolute;
     max-width: 1000px;
     margin: auto;
     right: -100px;
   }
 
   .slideshow-contain {
-    position: relative;
+    position: absolute;
     max-width: 1000px;
     margin: auto;
     left: 850px;
