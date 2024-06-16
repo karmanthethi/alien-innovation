@@ -16,7 +16,7 @@
     width: 673px;
     height: 65.5px;
     top: 200px;
-    left: 383px;
+    left: 275px;
     overflow: hidden;
     flex-shrink: 0;
   }
@@ -29,6 +29,7 @@
     font-weight: 500;
     color: var(--color-white);
     display: inline-block;
+    top: 1400px;
   }
   .top-nav-child {
     height: 108px;
@@ -301,6 +302,7 @@
   .hero-indicators-item {
     width: 886px;
     z-index: 6;
+    top: 265px;
   }
   .indicator-seven,
   .indicator-six {
@@ -388,7 +390,7 @@
   .product-three-image {
     position: absolute;
     top: 68px;
-    left: 297.5px;
+    left: 200.5px;
     border-radius: var(--br-11xl);
     width: 167px;
     height: 107px;
@@ -396,8 +398,8 @@
   }
   .product-images-child {
     position: absolute;
-    top: 325px;
-    left: 680.5px;
+    top: 370px;
+    left: 537.5px;
     border-radius: 29px;
     width: 116.5px;
     height: 25px;
@@ -406,7 +408,7 @@
   .product-images-item {
     position: absolute;
     top: 78px;
-    left: 655px;
+    left: 600px;
     border-radius: var(--br-11xl);
     width: 116.5px;
     height: 67.5px;
@@ -424,7 +426,7 @@
   .product-two-image {
     position: absolute;
     top: 361.5px;
-    left: 0;
+    left: -50px;
     border-radius: var(--br-11xl);
     width: 209.5px;
     height: 95.5px;
@@ -558,6 +560,8 @@
     box-sizing: border-box;
     white-space: nowrap;
     z-index: 2;
+    top: 50px;
+    position: relative;
   }
   .sensor-benefit-detail-child {
     height: 52px;
@@ -704,11 +708,14 @@
   .buy-container {
     flex-direction: column;
     gap: var(--gap-6xs);
+    position: relative;
+    left: -30px;
   }
   .frame-child59 {
     width: 9px;
     height: 18px;
     position: relative;
+    top: -5px;
   }
   .component-19-child {
     display: flex;
@@ -1047,6 +1054,7 @@
     bottom: -95px;
     transform: rotate(180deg);
     transform-origin: 0 0;
+    top: 700px;
   }
   .div5 {
     height: 156px;
@@ -1215,6 +1223,8 @@
   .slide-containers-wrapper {
     width: 1117px;
     flex-shrink: 0;
+    position: relative;
+    left: 50px;
   }
   .frame-child60,
   .frame-child61 {
