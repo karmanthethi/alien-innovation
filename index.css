@@ -1415,6 +1415,8 @@
     align-self: stretch;
     align-items: flex-start;
     justify-content: flex-start;
+    position: relative;
+    left: 50px;
   }
   .read-more-button-child {
     width: 45px;
